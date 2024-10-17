@@ -44,21 +44,36 @@ public class GridData
         }
         return true;
     }
+
+    internal int GetRepresentationIndex(Vector3Int gridPosition)
+    {
+        if(!placedObjects.ContainsKey(gridPosition) == false)
+            return -1;
+        return placedObjects[gridPosition].PlacedObjectIndex;
+    }
+
+    internal void RemoveObjectAt(Vector3Int gridPosition)
+    {
+        foreach (var pos in placedObjects[gridPosition].ocupiedPositions)
+        {
+            placedObjects.Remove(pos);
+        }
+    }
 }
 
 
 public class PlacementData
 {
-    public List<Vector3Int> OcupiedPositions;
+    public List<Vector3Int> ocupiedPositions;
 
     public int ID { get; private set; }
-    public int PlacedObjectIdex { get; private set; }
+    public int PlacedObjectIndex { get; private set; }
 
 
-    public PlacementData(List<Vector3Int> ocupiedPositions, int iD, int placedObjectIdex)
+    public PlacementData(List<Vector3Int> ocupiedPositions, int iD, int placedObjectIndex)
     {
-        OcupiedPositions = ocupiedPositions;
+        this.ocupiedPositions = ocupiedPositions;
         ID = iD;
-        PlacedObjectIdex = placedObjectIdex;
+        PlacedObjectIndex = placedObjectIndex;
     }
 }
