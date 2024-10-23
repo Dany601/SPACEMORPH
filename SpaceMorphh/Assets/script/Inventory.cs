@@ -80,8 +80,8 @@ public class Inventory : MonoBehaviour
                 slot[i].GetComponent<Slot>().UpdateSlot();
 
                 slot[i].GetComponent<Slot>().empy = false;
-                return;
             }
+            return;
         }
     }
 }
