@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class CambiarEscena : MonoBehaviour
+public class CambiarEscena3 : MonoBehaviour
 {
-    public string Apartaestudio;  // Nombre de la escena a cargar
+    public string ApartamentoVis;  // Nombre de la escena a cargar
     public int monedasNecesarias = 10;  // Número de monedas necesarias
     private Stats stats;
 
@@ -24,7 +24,7 @@ public class CambiarEscena : MonoBehaviour
                 // Descontar monedas
                 stats.monedas -= monedasNecesarias;
                 // Cargar la escena
-                SceneManager.LoadScene(6);
+                SceneManager.LoadScene(2);
             }
             else
             {
