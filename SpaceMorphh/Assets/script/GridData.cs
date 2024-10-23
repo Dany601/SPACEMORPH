@@ -1,8 +1,6 @@
 using System;
 using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
-using Unity.VisualScripting.ReorderableList;
+using System.Collections.Generic;   
 using UnityEngine;
 
 public class GridData
@@ -47,7 +45,7 @@ public class GridData
 
     internal int GetRepresentationIndex(Vector3Int gridPosition)
     {
-        if(!placedObjects.ContainsKey(gridPosition) == false)
+        if(placedObjects.ContainsKey(gridPosition) == false)
             return -1;
         return placedObjects[gridPosition].PlacedObjectIndex;
     }

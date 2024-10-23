@@ -29,3 +29,131 @@ MonoBehaviour:
     <ID>k__BackingField: 3
     <Size>k__BackingField: {x: 2, y: 1}
     <Prefab>k__BackingField: {fileID: 3493615974341626966, guid: c8183485a28237d4385a3c7ef8659faa, type: 3}
+  - <name>k__BackingField: bathroomcabinet
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 8159765606542159565, guid: 8e6bc3f782942da4db5c147d824daafd, type: 3}
+  - <name>k__BackingField: BathroomSink
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 8238387472549210624, guid: 69adba8a27903074ca6641649e3a35cf, type: 3}
+  - <name>k__BackingField: KitchenSink
+    <ID>k__BackingField: 6
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 6228661429139035317, guid: 3d7a05e5941178e4cacff27a6b64c2f7, type: 3}
+  - <name>k__BackingField: LoungeSofa
+    <ID>k__BackingField: 7
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 8434248274135042566, guid: 7e59794054dfcab4091e05699107acb5, type: 3}
+  - <name>k__BackingField: KitchenStove
+    <ID>k__BackingField: 8
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 8253705389109430346, guid: 2d66ebc1f814b63439196491a9d18930, type: 3}
+  - <name>k__BackingField: cabinetBed
+    <ID>k__BackingField: 9
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 4809545810651921003, guid: 638fbb1c638a2c643b5d9b14c9e8305a, type: 3}
+  - <name>k__BackingField: benchcuchion
+    <ID>k__BackingField: 10
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 986709677550030016, guid: 53600742198721f4fbe6f32d6dff33ea, type: 3}
+  - <name>k__BackingField: chairrounder
+    <ID>k__BackingField: 11
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 3312639424943879004, guid: d012fd44c5ba2c9489ed69ce8fc92ff3, type: 3}
+  - <name>k__BackingField: bedsingle
+    <ID>k__BackingField: 12
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 2190545255171331853, guid: e671e03348a4c544fb73f6118763bd97, type: 3}
+  - <name>k__BackingField: tableglass
+    <ID>k__BackingField: 13
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 4864072580311776410, guid: b8f3ba19366f2e24fb85f7f66c9333c5, type: 3}
+  - <name>k__BackingField: bathroomcabinetelevate
+    <ID>k__BackingField: 14
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 6612189820647659477, guid: 295579e4ea86a994fa1b84262f251c27, type: 3}
+  - <name>k__BackingField: bathtub
+    <ID>k__BackingField: 15
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 5557483893014349481, guid: a46ba83f30c9efd44af3a8a4a6e49c26, type: 3}
+  - <name>k__BackingField: kitchencabinet
+    <ID>k__BackingField: 16
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 2989907011084907805, guid: 1a7199661d144f34a8469648f252def9, type: 3}
+  - <name>k__BackingField: loungechair
+    <ID>k__BackingField: 17
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 8233734440590645265, guid: 6b1984c2a070fb945be605fed8b97588, type: 3}
+  - <name>k__BackingField: kitchencabinetdouble
+    <ID>k__BackingField: 18
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 8114462021956160677, guid: 000d416c13fb00845bff37b59516c0e5, type: 3}
+  - <name>k__BackingField: cabinettable
+    <ID>k__BackingField: 19
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 6902860345959702737, guid: 6b90a709aea69bf439e7607f3c69f9b4, type: 3}
+  - <name>k__BackingField: chairdesk
+    <ID>k__BackingField: 20
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 1048163260598297478, guid: 452eddc183d42d24d84ed3ff0bd8f369, type: 3}
+  - <name>k__BackingField: desk
+    <ID>k__BackingField: 21
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 5903903254527534738, guid: 7c3a9c9bfe35df946a04c479fd9d24aa, type: 3}
+  - <name>k__BackingField: bedelevate
+    <ID>k__BackingField: 22
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 3034756574887212374, guid: 5c256924254fac040b344d98e582f130, type: 3}
+  - <name>k__BackingField: tablecross
+    <ID>k__BackingField: 23
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 4041167870880000802, guid: 95b678dfa1405374dbe893dad83b124a, type: 3}
+  - <name>k__BackingField: mirror
+    <ID>k__BackingField: 24
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 924914334479414310, guid: ef04252b1b71e1a41a7a508eb2dae07a, type: 3}
+  - <name>k__BackingField: toilet
+    <ID>k__BackingField: 25
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 5067826878476674401, guid: 80fada8cfefb8bf49b8e81821352e047, type: 3}
+  - <name>k__BackingField: kitchenfrige
+    <ID>k__BackingField: 26
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 1470717091932048102, guid: 1003faf94a3a91b49bc6d8eee3e90fed, type: 3}
+  - <name>k__BackingField: lougebluesofa
+    <ID>k__BackingField: 27
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 7926645401877433698, guid: a46187d8bcd28f64b928ae981d4865c4, type: 3}
+  - <name>k__BackingField: microhorn
+    <ID>k__BackingField: 28
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 701477988130185867, guid: 9a56f140b63e01f419cc575dc0523e83, type: 3}
+  - <name>k__BackingField: microhorn
+    <ID>k__BackingField: 29
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 701477988130185867, guid: 9a56f140b63e01f419cc575dc0523e83, type: 3}
+  - <name>k__BackingField: deskcorner
+    <ID>k__BackingField: 30
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 5722724179729011982, guid: c2002d1bcec3e0e4cab2e2ee83d08df9, type: 3}
+  - <name>k__BackingField: shower
+    <ID>k__BackingField: 31
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 2534884354383833005, guid: a50b6d97ad541ac4db803a29225cce2c, type: 3}
+  - <name>k__BackingField: dryer
+    <ID>k__BackingField: 32
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 3862921038958755497, guid: e0b9b82ff5cab8c47b9ade5ac8b44789, type: 3}
+  - <name>k__BackingField: washer
+    <ID>k__BackingField: 33
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 5741991904755284445, guid: f2d8d610af5622c49b278325b3a3ecbf, type: 3}
+  - <name>k__BackingField: laptop
+    <ID>k__BackingField: 34
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 6947537578420520159, guid: 5cab93020144a904786c3c89a3dd1538, type: 3}
+  - <name>k__BackingField: television
+    <ID>k__BackingField: 35
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 6852995327651595761, guid: 394fbd260c1f36b468eb182fdfde5839, type: 3}
