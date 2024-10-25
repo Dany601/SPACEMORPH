@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MENU.unity
+    guid: 483748b695ef0dc46a63358ab2abba81
+  - enabled: 1
+    path: Assets/Scenes/Ciudad.unity
+    guid: 7909b81588001134fa93383a8f2654b2
+  - enabled: 1
     path: Assets/Scenes/PortalApartaestudio.unity
     guid: 656de83383d9cc042a1250de72d18d54
   - enabled: 1
@@ -15,17 +21,8 @@ EditorBuildSettings:
     path: Assets/Scenes/ApartamentoVis.unity
     guid: f36cc198804734a48829318745155e1b
   - enabled: 1
-    path: Assets/Scenes/MENU.unity
-    guid: 483748b695ef0dc46a63358ab2abba81
-  - enabled: 1
-    path: Assets/Scenes/NIVELES.unity
-    guid: 80c9fd24295aeb04ca2ba7150cf919e8
-  - enabled: 1
     path: Assets/Scenes/Apartaestudio.unity
     guid: 425d4e585301a284f90b35b762055c35
-  - enabled: 1
-    path: Assets/Scenes/Ciudad.unity
-    guid: 7909b81588001134fa93383a8f2654b2
   - enabled: 1
     path: Assets/Scenes/Casa2.unity
     guid: 3bc5a12896358124f8d3a16750fb2c62
