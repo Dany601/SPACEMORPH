@@ -24,7 +24,7 @@ public class CambiarEscena1 : MonoBehaviour
                 // Descontar monedas
                 stats.monedas -= monedasNecesarias;
                 // Cargar la escena
-                SceneManager.LoadScene(1);
+                SceneManager.LoadScene(3);
             }
             else
             {

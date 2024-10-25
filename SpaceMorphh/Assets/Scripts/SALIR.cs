@@ -7,6 +7,6 @@ public class SALIR : MonoBehaviour
 {
     public void Salir(string Ciudad)
     {
-        SceneManager.LoadScene(6);
+        SceneManager.LoadScene(1);
     }
 }
