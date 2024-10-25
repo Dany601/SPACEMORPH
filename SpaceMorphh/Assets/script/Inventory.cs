@@ -62,7 +62,7 @@ public class Inventory : MonoBehaviour
 
     public void AddItem(GameObject itemObject, int itemID, string itemType , string itemDescripcion, Sprite itemIcon) 
     {
-        for (int i = 0; i < allSlots; i++) 
+        for (int i = 0; i < allSlots;) 
         {
             if (slot[i].GetComponent<Slot>().empy)
             {
