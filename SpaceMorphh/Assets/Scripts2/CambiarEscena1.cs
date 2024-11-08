@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class CambiarEscena1 : MonoBehaviour
 {
-    public string ApartamentoNoVis;  // Nombre de la escena a cargar
+    public string ApartamentoVis;  // Nombre de la escena a cargar
     public int monedasNecesarias = 10;  // Número de monedas necesarias
     private Stats stats;
 
@@ -24,7 +24,7 @@ public class CambiarEscena1 : MonoBehaviour
                 // Descontar monedas
                 stats.monedas -= monedasNecesarias;
                 // Cargar la escena
-                SceneManager.LoadScene(3);
+                SceneManager.LoadScene(4);
             }
             else
             {
