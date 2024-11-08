@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &2799113044373800714
+--- !u!1 &4703676105713716788
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,46 +8,46 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 8188988233186536413}
-  - component: {fileID: 5854974810037250532}
-  - component: {fileID: 4708440567949625140}
+  - component: {fileID: 5518208234932800074}
+  - component: {fileID: 1684669065657804176}
+  - component: {fileID: 2213308446817208175}
   m_Layer: 0
-  m_Name: loungeSofaCorner
+  m_Name: loungesofa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &8188988233186536413
+--- !u!4 &5518208234932800074
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2799113044373800714}
+  m_GameObject: {fileID: 4703676105713716788}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 1.7841, y: 1, z: 1.8032}
+  m_LocalScale: {x: -2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2361386378432284668}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &5854974810037250532
+--- !u!33 &1684669065657804176
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2799113044373800714}
-  m_Mesh: {fileID: -3555299997159861603, guid: 572a7583ce4b2a3419d64618880275d4, type: 3}
---- !u!23 &4708440567949625140
+  m_GameObject: {fileID: 4703676105713716788}
+  m_Mesh: {fileID: -3555299997159861603, guid: 6fca0299a8523e74fa42e799ca35e3ee, type: 3}
+--- !u!23 &2213308446817208175
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2799113044373800714}
+  m_GameObject: {fileID: 4703676105713716788}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -61,8 +61,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 7887957717227282328, guid: 572a7583ce4b2a3419d64618880275d4, type: 3}
-  - {fileID: -8067726398312463513, guid: 572a7583ce4b2a3419d64618880275d4, type: 3}
+  - {fileID: 7887957717227282328, guid: 6fca0299a8523e74fa42e799ca35e3ee, type: 3}
+  - {fileID: -8067726398312463513, guid: 6fca0299a8523e74fa42e799ca35e3ee, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -84,35 +84,3 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!1 &8434248274135042566
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2361386378432284668}
-  m_Layer: 0
-  m_Name: LoungeSofa
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &2361386378432284668
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8434248274135042566}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.002, y: 0, z: 0.18}
-  m_LocalScale: {x: 1.1, y: 2, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 8188988233186536413}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
